@@ -3,7 +3,13 @@ body{
     text-align: center;
     font-family: "Arial";
 }
-
+#cabecera{
+    background: #33A;
+    color: white;
+    font-weight: bold;
+    margin: 0px;
+    padding: .5rem;
+}
 .container{
     width: 70%;
     padding: 1rem;
